@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>最佳损友</string>
+		<string>陈奕迅</string>
+		<string>陈奕迅</string>
+	</array>
+	<array>
+		<string>李白</string>
+		<string>李荣浩</string>
+		<string>李荣浩pic</string>
+	</array>
+	<array>
+		<string>泡沫</string>
+		<string>邓紫棋</string>
+		<string>邓紫棋pic</string>
+	</array>
+	<array>
+		<string>老男孩</string>
+		<string>筷子兄弟</string>
+		<string>筷子兄弟</string>
+	</array>
+	<array>
+		<string>上海姑娘</string>
+		<string>张信哲</string>
+		<string>张信哲pic</string>
+	</array>
+	<array>
+		<string>何以爱情</string>
+		<string>钟汉良</string>
+		<string>钟汉良pic</string>
+	</array>
+</array>
+</plist>
